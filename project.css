@@ -1,0 +1,61 @@
+*{
+   /* margin: 0;
+    padding: 0;
+    height: 800px;
+    width: 375px; 
+    position: relative;
+    background: #FCFCFC;
+    border-radius: 10px; */
+}
+/*@media{
+    position: relative;
+    width: 375px;
+    height: 800px;
+    background: #FCFCFC;
+    border-radius: 10px;
+}*/
+/*@media only screen and (max-width: 600px) {
+    navbar {
+      display: none;
+    }
+  
+    #hamburger-icon {
+      display: block;
+    }
+  }*/
+
+.nav-list{
+/*position: absolute;
+width: 375px;
+height: 44px;
+left: 0px;
+top: 0px;*/
+}
+.nav-list li{
+    display: flex;
+    align-items: center;
+}
+.nav-list li a{
+    text-decoration: none;
+}
+.time{
+    text-align: left;
+    list-style: none; 
+}
+.network{
+    list-style: none;
+}
+.wifi{
+    list-style: none;
+}
+.battery{
+    list-style: none;
+}
+.image{
+/*position: absolute;
+width: 282px;
+height: 282px;
+left: calc(50% - 282px/2 - 0.5px);
+top: 132px;
+background: url(.png);*/
+}
